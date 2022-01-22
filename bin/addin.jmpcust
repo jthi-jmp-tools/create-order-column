@@ -13,7 +13,7 @@
             <jm:action type="text">Names Default To Here(1);
 Include("$ADDIN_HOME(jthi.jmp.tools.create.order.column)/create_order_column_gui.jsl");</jm:action>
             <jm:tip>Run Create Order Column of JMP-Tools created by @jthi</jm:tip>
-            <jm:icon type="builtin">NumericColumn</jm:icon>
+            <jm:icon type="builtin">Ascending</jm:icon>
           </jm:command>
         </jm:menu>
       </jm:insert_after>
